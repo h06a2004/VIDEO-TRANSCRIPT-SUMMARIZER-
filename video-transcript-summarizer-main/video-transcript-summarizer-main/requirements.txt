@@ -1,0 +1,6 @@
+pytube
+pandas
+flask
+ffmpeg-python
+transformers
+git+https://github.com/openai/whisper.git
